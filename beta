@@ -4,3 +4,4 @@ git add README.md
 git commit -m“first commit” 
 git remote add origin https://github.com/Kaidashen/WeChat-development.git
  git push -u
+ WeChat page template authorized Key to solve the problem of adding material 
