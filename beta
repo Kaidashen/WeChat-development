@@ -1,0 +1,6 @@
+echo“#WeChat-development”>> README.md 
+git init 
+git add README.md 
+git commit -m“first commit” 
+git remote add origin https://github.com/Kaidashen/WeChat-development.git
+ git push -u
